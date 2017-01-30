@@ -4,17 +4,17 @@
     "homepage" : "https://codecanyon.net/user/kisded/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/sphinx/master/sphinx-browser-version-checker.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "2.7",
     "tested" : "4.7",
-    "last_updated" : "2016-11-14",
+    "last_updated" : "2017-01-30",
     
-    "author" : "kisded",
+    "author" : "CodeRevolution",
     "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
     
     "sections" : 
     {
         "description" : "<p>Sphinx Browser Version Checker WordPress Plugin - blocks unsupported browser versions! Do not stress about users complaining about issues on your website, because they use stone age browsers! Notify or block them!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-11-14</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-11-14</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2017-01-30</strong> <ul> <li>Fixed some detected issues.</li> </ul>"
     }
 }
